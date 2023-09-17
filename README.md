@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Mandlik</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img class="align" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img class="align" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashmandlik555&label=Profile%20views&color=0e75b6&style=flat" alt="akashmandlik555" /> </p>
 
