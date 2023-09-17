@@ -1,5 +1,5 @@
 
-<img class="align" align="right" alt="GIF" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true](https://github.com/AkashMandlik555/AkashMandlik555/blob/main/Akash%20Mandlik%20(1).png)" width="800" height="320" />
+<img class="align" align="right" alt="GIF" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true](https://github.com/AkashMandlik555/AkashMandlik555/blob/main/Akash%20Mandlik%20(1).png)" width="500" height="320" />
 <h1 align="center">Hi 👋, I'm Akash Mandlik</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
